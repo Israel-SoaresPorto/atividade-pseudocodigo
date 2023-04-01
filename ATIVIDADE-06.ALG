@@ -18,6 +18,7 @@ Inicio
    
    media <- (notaDoPrimeiroBimestre + notaDoSegundoBimestre) / 2
    
+   //exibe a condição do aluno
    escreval("média do aluno: ", media)
    se (media >= 6) entao
       escreval("Aluno está aprovado!")
